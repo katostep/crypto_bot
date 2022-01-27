@@ -23,6 +23,6 @@ def decrypto(file_path):
 	return decoded
 
 if __name__ == "__main__":
-	file_path = 'aaa'	
-	#encrypto_save(file_path)
-	print(decrypto(file_path))
+	file_path = 'bitflyer.txt'	
+	encrypto_save(file_path)
+	#print(decrypto(file_path))
